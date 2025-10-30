@@ -1,5 +1,5 @@
 # Analyzing Child Marriage in India Through
- Women’s Literacy Using Machine Learning
+  prediction of percentage of women who are getting married before age of 18 years in india when main input is given as percentage of Women's litracy rate Using Machine Learning
 # Why this project
  Literacy among women and child marriage are still very vital
  issues that hinder India’s social, economic, and health growth. However,
@@ -12,7 +12,7 @@ sus 2011, only 65.5 percentage of women are literate compared to 82.1
  of child brides, with estimates around 1.5 million girls getting married
  before they turn 18. This early marriage escalates risks ranging from
  maternal and infant mortality to premature malnutrition, infant death,
- and physical and psychological harm [7]. Although states like Assam and
+ and physical and psychological harm . Although states like Assam and
  Karnataka have introduced enforcement measures, the prevention gaps
  remain a significant challenge. This study explores the nationwide conse
 quences of child marriage on women. Illiteracy in child marriage through
