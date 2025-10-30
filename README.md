@@ -35,6 +35,14 @@ The dataset titled NFHS_5_India_Districts_Factsheet_Data was obtained from
  the official government repository data.gov.in. It encompasses socio-demographic
  features organized by districts and States/Union Territories (UT) for the period
  2019–2021.
+# Evaluation Method
+## Evaluation Metrix
+   - R2 or coefficient of determination
+   - Mean Absolute Error (MAE)
+## Visual Graphs 
+   - Training vs. Validation loss plot
+   - Actual vs. Predicted value plot
+   - Validation Performance metrics
 # Results 
 <img width="4470" height="3435" alt="best_model_analysis (2)" src="https://github.com/user-attachments/assets/9df151b6-c723-4c6e-9b48-9d18f944b26a" />
 
