@@ -30,3 +30,6 @@ cent growth. The MLP model, with a test R² of 0.94 and MAE of 0.53,
  identify and support high-risk communities. Using advanced predictive
  analytics ensures interventions are targeted for meaningful, long-term
  social improvement
+# Results 
+<img width="4470" height="3435" alt="best_model_analysis (2)" src="https://github.com/user-attachments/assets/9df151b6-c723-4c6e-9b48-9d18f944b26a" />
+
