@@ -1,5 +1,5 @@
 # Analyzing Child Marriage in India Through
-  prediction of percentage of women who are getting married before age of 18 years in india when main input is given as percentage of Women's litracy rate Using Machine Learning
+  prediction of percentage of women who are getting married before age of 18 years in india when main input is given as percentage of Women's litracy rate Using Machine Learning.
 # Why This Project
  Literacy among women and child marriage are still very vital
  issues that hinder India’s social, economic, and health growth. However,
@@ -29,7 +29,7 @@ cent growth. The MLP model, with a test R² of 0.94 and MAE of 0.53,
  delivers highly precise forecasts that enable policymakers to proactively
  identify and support high-risk communities. Using advanced predictive
  analytics ensures interventions are targeted for meaningful, long-term
- social improvement
+ social improvement.
 # Dataset Description
 The dataset titled NFHS_5_India_Districts_Factsheet_Data was obtained from
  the official government repository data.gov.in. It encompasses socio-demographic
