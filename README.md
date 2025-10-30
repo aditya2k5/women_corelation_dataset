@@ -1,6 +1,6 @@
 # Analyzing Child Marriage in India Through
   prediction of percentage of women who are getting married before age of 18 years in india when main input is given as percentage of Women's litracy rate Using Machine Learning
-# Why this project
+# Why This Project
  Literacy among women and child marriage are still very vital
  issues that hinder India’s social, economic, and health growth. However,
  there is a shortage in analytic and predictive models and international
